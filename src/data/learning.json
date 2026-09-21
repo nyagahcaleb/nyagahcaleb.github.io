@@ -1,0 +1,26 @@
+[
+  {
+    "topic": "Software System Automation",
+    "status": "Learning"
+  },
+  {
+    "topic": "MATLAB (refresher)",
+    "status": "Exploring"
+  },
+  {
+    "topic": "PCB Design (refresher)",
+    "status": "Exploring"
+  },
+  {
+    "topic": "Embedded Systems & ESP32",
+    "status": "Building"
+  },
+  {
+    "topic": "Solar-Powered Telecom Infrastructure",
+    "status": "Exploring"
+  },
+  {
+    "topic": "Autonomous Systems & Drones",
+    "status": "Learning"
+  }
+]

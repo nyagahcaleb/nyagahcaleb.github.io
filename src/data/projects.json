@@ -1,0 +1,15 @@
+[
+  {
+    "id": "rentflow",
+    "name": "RentFlow",
+    "category": "Software",
+    "status": "In Progress",
+    "statusNote": "Working through a Tailwind build-config issue before the first push.",
+    "description": "A React dashboard for managing a 70-room rental building — rent tracking, tenant records and payment status in one place.",
+    "technologies": ["React", "Vite", "Tailwind CSS"],
+    "date": "2026",
+    "githubUrl": "",
+    "demoUrl": "",
+    "image": ""
+  }
+]
